@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @levygab
-- 👀 I’m interested in computing, sports....
-- 🌱 I’m currently studying computing in PHELMA, an engineering school in Grenoble
-- All the project on this gitHub exept the one named C_project_shorter_path were made in second year.
-- Sometime README is in French and sometime in both English and French because this gitHub is recent so I did not have time to change all the README.
+- 👀 I’m interested in Computer Science, Robotics, Sports....
+- 🌱 I’m currently studying Computer Science in PHELMA, an engineering school in Grenoble
+- All the projects on my GitHub except the project called C_project_shorter_path were made in my second year at PHELMA.
+- Sometimes README is written in French and sometimes in both English and French.
 - I hope you will enjoy my projects 
 
 <!---
