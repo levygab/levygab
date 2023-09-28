@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @levygab
 - 👀 I’m interested in Computer Science, Robotics, Sports....
 - 🌱 I’m currently studying Computer Science in PHELMA, an engineering school in Grenoble
-- All the projects on my GitHub except the project called C_project_shorter_path were made in my second year at PHELMA.
-- Sometimes README is written in French and sometimes in both English and French.
+- Some project were made at school.
+- the project door_opening has been made during a gap-year-internship
+  - it is a robotic project with the framework ROS   
+- README can be in french, english or both
 - I hope you will enjoy my projects 
 
 <!---
